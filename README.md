@@ -46,3 +46,12 @@ The 7 visualizations I created are shown and discussed below.
 
 
 # Summary
+
+I believe a biksharing service would be successful in Des Moines! According to a few articles I have read, Des Moines has become a hotspot for Millenials. Bikesharing services are successful in busy and poular places so this definitely seems like the place to have this service. Males will most likely be the target as they seem to be a very reliable market - especially in the standard morning and evening commute times.
+
+Some ideas for additional analysis are shown below:
+
+1. Analyzing the age range for the male riders. This would give a great idea of exactly what group to market to when introducing the bikesharing service in Des Moines. Marketing efforts geared towards increasing female rides should be done as well- but to get started, knowing the age range of typical male riders could be very beneficial. 
+
+2. Analyzing how many of the riders are residents of NYC vs. how many are tourists. If the majority of riders in NYC are tourists, we would need to analyze how many tourists Des Moines has annually because that could greatly impact the success of the business. 
+
